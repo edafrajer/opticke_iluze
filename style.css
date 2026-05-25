@@ -83,7 +83,9 @@ html {
 
 h1 {
     font-size: 28px;
+    text-align: center;
 }
+
 
 summary {
     cursor: pointer;
