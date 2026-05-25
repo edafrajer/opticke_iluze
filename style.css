@@ -79,5 +79,17 @@ footer {
 
 html {
     scrollbar-gutter: stable;
-    scroll-behavior: smooth;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+summary {
+    cursor: pointer;
+    padding: 10px 15px;
+    background: #f2f2f2;
+    border-radius: 6px;
+    font-weight: bold;
+    list-style: none;
 }
